@@ -10,4 +10,5 @@ img {
 button {
   border-radius: 50%;
   color: blueviolet;
+  text-align: center;
 }
