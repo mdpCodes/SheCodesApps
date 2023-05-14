@@ -7,3 +7,7 @@ img {
   border-radius: 15px 50px 30px 5px;
   border-radius: 50%;
 }
+button {
+  border-radius: 50%;
+  color: blueviolet;
+}
